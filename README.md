@@ -1,7 +1,18 @@
-## Hello! :)
+## 👋 Hello! I'm Yuan :)
 
-My academic journey started in French Literature at Nanjing University and Museology in Paris Saclay University, where I developed an interest in coding, particularly through topics like Natural Language Processing and the digital preservation of cultural heritage. To dive deeper, I joined the Master Pise (Information Projects Management and SI Strategy) at Paris City University in 2025. It’s a conversion program that helps students from the humanities transition into tech, teaching us how to code and manage IT systems. Check it out here: [Pise Master Program](https://pise.info/)
+**IT Project Manager PO & PMO | Bridging Business Needs and Technical Execution** 🌉
 
-Languages : C, Python, Java, SQL, PHP, HTML, CSS
+With a dual background in the Humanities and Information Systems, I specialize in translating complex business requirements into robust technical solutions. 
 
-Interests: live coding, Sentiment analysis
+### 🛠️ Skills & Expertise
+- **Project Management:** Agile/Scrum, PMO, IT Governance, Requirement Analysis, Functional Testing (UAT).
+- **Tools & Software:** Advanced Jira (Workflow optimization), SAP (O2C, S2P), Excel, Trello.
+- **Data & BI:** SQL, NoSQL, Power BI, Metabase, Merise Modeling.
+- **Development & Architecture:** Python, Java, C, PHP, API, Unix.
+- **Languages:** Mandarin (Native), French (C2, bilingual), English (C1).
+
+### 🔭 Background & Interests
+* **Education:** MSc in IT Project Management & SI Strategy (Paris Cité University) | MSc in International Cultural Projects (Paris-Saclay) | BA in French Literature (Nanjing University).
+* **Interests:** Live Coding, Sentimental Analysis, and Digital Preservation of Cultural Heritage. 
+
+📫 **Let's connect:** [www.linkedin.com/in/yuan-d2002] | ✉️ yuan.d@outlook.fr
