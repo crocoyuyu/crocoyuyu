@@ -12,7 +12,7 @@ With a dual background in the Humanities and Information Systems, I specialize i
 - **Languages:** Mandarin (Native), French (C2, bilingual), English (C1).
 
 ### 🔭 Background & Interests
-* **Education:** MSc in IT Project Management & SI Strategy (Paris Cité University) | MSc in International Cultural Projects (Paris-Saclay) | BA in French Literature (Nanjing University).
+* **Education:** MSc in IT Project Management & SI Strategy (Paris Cité University) | Master in International Cultural Projects (Paris-Saclay) | BA in French Literature (Nanjing University).
 * **Interests:** Live Coding, Sentimental Analysis, and Digital Preservation of Cultural Heritage. 
 
 📫 **Let's connect:** [www.linkedin.com/in/yuan-d2002] | ✉️ yuan.d@outlook.fr
